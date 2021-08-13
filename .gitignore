@@ -1,0 +1,8 @@
+.vs/
+packages/
+Web/bin/
+Web/obj/
+Web/Properties/
+Web/Web.csproj
+Web/Web.csproj.user
+SimpleCode.LazeLemon.sln
