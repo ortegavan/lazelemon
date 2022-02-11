@@ -1,8 +1,1 @@
-.vs/
-packages/
-site/bin/
-site/obj/
-site/Properties/
-site/site.csproj
-site/site.csproj.user
-site.sln
+.DS_Store
